@@ -237,6 +237,8 @@ public class aidlserver extends Service {
 
 
 ## OUTPUT
+<img width="484" height="791" alt="Screenshot 2026-03-16 102901 - Edited (1)" src="https://github.com/user-attachments/assets/91882b29-9531-4c41-8842-62da55d885ac" />
+<img width="484" height="791" alt="Screenshot 2026-03-16 102901 - Edited" src="https://github.com/user-attachments/assets/090d5995-cd0c-4b2e-a7d7-60f5465b11a4" />
 
 
 
